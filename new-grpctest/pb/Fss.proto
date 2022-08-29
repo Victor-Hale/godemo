@@ -1,0 +1,16 @@
+syntax = "proto3"; //选择版本
+option go_package="./;Fss";
+package micro; // 包
+
+service Greeter {
+    rpc SayHello (HelloRequest) returns (HelloReply) {
+    }
+}
+
+message HelloRequest {
+    string imgdir = 1;
+}
+
+message HelloReply {
+    string url =1;
+}

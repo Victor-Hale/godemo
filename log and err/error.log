@@ -1,0 +1,8 @@
+ERROR: 2022/08/24 16:18:22 log.go:26: error
+INFO: 2022/08/24 16:18:22 log.go:27: info
+ERROR: 2022/08/24 16:19:34 log.go:26: error
+INFO: 2022/08/24 16:19:34 log.go:27: info
+ERROR: 2022/08/24 16:23:18 main.go:7: 1111
+ERROR: 2022/08/24 16:24:52 main.go:7: 1111
+ERROR: 2022/08/24 16:39:24 main.go:7: 1111
+ERROR: 2022/08/24 16:39:38 main.go:7: 1111
